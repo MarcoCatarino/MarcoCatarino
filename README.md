@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Estudiante de la Universidad Politécnica de Quintana Roo. En este perfil encontraran los diferentes proyectos que haga durante la carrera (si me acuerdo).
+
 <!--
 **MarcoCatarino/MarcoCatarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
