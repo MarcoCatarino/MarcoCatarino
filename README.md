@@ -1,23 +1,49 @@
-<h1 align="center">Hi, I'm Marco Catarino</h1>
-<h3 align="center">A full-stack jr software engineer</h3>
+# Hi there, I'm Marco Catarino 👋
+### **Software Engineer | Full-Stack Developer**
 
-- 🔭 I’m currently working as **Frrelancer**
+I’m a passionate software engineer based in Cancún, Mexico[cite: 1], specializing in building robust, high-performance web applications and scalable backend architectures. I love solving complex problems, exploring low-level systems (running Arch Linux daily), and building end-to-end digital solutions from scratch.
 
-- 🌱 I’m currently learning **How to implement AI in my work**
+🌐 **Portfolio:** [portfolio-marcocatarino.netlify.app](https://portfolio-marcocatarino.netlify.app/)[cite: 1]  
+📧 **Email:** marco.arturo.hdz.c@gmail.com[cite: 1]  
+📱 **Phone:** (+52) 9984879923[cite: 1]  
 
-- 👨‍💻 If you want to know more about me [https://portfolio-marcocatarino.netlify.app/](https://portfolio-marcocatarino.netlify.app/)
+---
 
-- 📫 How to reach me **marco.catarino60@gmail.com**
+## 🛠️ Tech Stack & Tools
 
-- ⚡ Fun fact **I consider myself a good dancer.**
+* **Languages:** TypeScript, JavaScript, C# (.NET), Golang, Python, HTML5, CSS3[cite: 1]
+* **Frontend:** React.js, Next.js, Astro, TailwindCSS, Zustand[cite: 1]
+* **Backend:** Node.js, Express, NestJS[cite: 1]
+* **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Drizzle ORM, Zod[cite: 1]
+* **DevOps & Environment:** Docker, Git, NGINX, Arch Linux[cite: 1]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/marco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marco-catarino-dev-mex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-catarino-dev-mex" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💼 Professional Experience
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcocatarino&show_icons=true&locale=en&layout=compact" alt="marcocatarino" /></p>
+### **Freelance | Full-Stack Software Developer** *(January 2024 – Present)*[cite: 1]
+* Deliver end-to-end custom applications, handling everything from client requirements and architectural modeling to deployment[cite: 1].
+* Build modern, responsive web solutions using ReactJS, AstroJS, Node.js, Golang, MySQL, and PostgreSQL[cite: 1].
+
+### **AmaniSft | Co-founder & Full-Stack Software Developer** *(July 2025 – January 2026)*[cite: 1]
+* Spearheaded the end-to-end development of 7 custom web solutions (3 landing pages, 2 management systems, and a Point of Sale POS system) within a technical team[cite: 1].
+* Handled full SDLC execution, database modeling, and production deployment using React, TypeScript, Tailwind CSS, and Node.js[cite: 1].
+
+### **Codiscun | Systems Engineer** *(January 2025 – April 2025)*[cite: 1]
+* Modernized legacy applications by applying partial reverse engineering to optimize core business logic[cite: 1].
+* Delivered high-quality code under tight deadlines adhering to strict engineering and architectural standards[cite: 1].
+
+### **The Palace Company | Software Engineer** *(May 2024 – December 2024)*[cite: 1]
+* Maintained internal network infrastructure and ensured high system availability across hospitality facilities[cite: 1].
+
+---
+
+## 🎓 Education
+
+* **Software Engineering** (2022 – 2026) — Universidad Politécnica de Quintana Roo[cite: 1]
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCatarino&show_icons=true&theme=radical)
