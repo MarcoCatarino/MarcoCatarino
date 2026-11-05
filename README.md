@@ -21,29 +21,23 @@ I’m a passionate software engineer based in Cancún, Mexico[cite: 1], speciali
 
 ## 💼 Professional Experience
 
-### **Freelance | Full-Stack Software Developer** *(January 2024 – Present)*[cite: 1]
-* Deliver end-to-end custom applications, handling everything from client requirements and architectural modeling to deployment[cite: 1].
-* Build modern, responsive web solutions using ReactJS, AstroJS, Node.js, Golang, MySQL, and PostgreSQL[cite: 1].
+### **Freelance | Full-Stack Software Developer** *(January 2024 – Present)*
+* Deliver end-to-end custom applications, handling everything from client requirements and architectural modeling to deployment.
+* Build modern, responsive web solutions using ReactJS, AstroJS, Node.js, Golang, MySQL, and PostgreSQL.
 
-### **AmaniSft | Co-founder & Full-Stack Software Developer** *(July 2025 – January 2026)*[cite: 1]
-* Spearheaded the end-to-end development of 7 custom web solutions (3 landing pages, 2 management systems, and a Point of Sale POS system) within a technical team[cite: 1].
-* Handled full SDLC execution, database modeling, and production deployment using React, TypeScript, Tailwind CSS, and Node.js[cite: 1].
+### **AmaniSft | Co-founder & Full-Stack Software Developer** *(July 2025 – January 2026)
+* Spearheaded the end-to-end development of 7 custom web solutions (3 landing pages, 2 management systems, and a Point of Sale POS system) within a technical team.
+* Handled full SDLC execution, database modeling, and production deployment using React, TypeScript, Tailwind CSS, and Node.js.
 
-### **Codiscun | Systems Engineer** *(January 2025 – April 2025)*[cite: 1]
-* Modernized legacy applications by applying partial reverse engineering to optimize core business logic[cite: 1].
-* Delivered high-quality code under tight deadlines adhering to strict engineering and architectural standards[cite: 1].
+### **Codiscun | Systems Engineer** *(January 2025 – April 2025)*
+* Modernized legacy applications by applying partial reverse engineering to optimize core business logic.
+* Delivered high-quality code under tight deadlines adhering to strict engineering and architectural standards.
 
-### **The Palace Company | Software Engineer** *(May 2024 – December 2024)*[cite: 1]
-* Maintained internal network infrastructure and ensured high system availability across hospitality facilities[cite: 1].
+### **The Palace Company | Software Engineer** *(May 2024 – December 2024)*
+* Maintained internal network infrastructure and ensured high system availability across hospitality facilities.
 
 ---
 
 ## 🎓 Education
 
-* **Software Engineering** (2022 – 2026) — Universidad Politécnica de Quintana Roo[cite: 1]
-
----
-
-## 📊 GitHub Stats & Activity
-
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCatarino&show_icons=true&theme=radical)
+* **Software Engineering** (2022 – 2026) — Universidad Politécnica de Quintana Roo
